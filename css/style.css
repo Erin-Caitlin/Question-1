@@ -50,5 +50,10 @@ p ~ article{
 
 &:hover {
     box-shadow: unset;
-        border: 2px solid var(--primary);
-    }
+        border: 2px solid var(pink);
+}
+
+#hover{
+    background-color: yellow;
+    padding: 2rex;
+}
